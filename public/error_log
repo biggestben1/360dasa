@@ -1,0 +1,408 @@
+[13-Nov-2017 17:09:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:09:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:14:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:25:10 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:25:14 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:25:18 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:25:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:26:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:27:05 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:27:08 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:27:19 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:28:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:28:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:28:40 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:38:39 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:42:47 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:42:47 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:42:47 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:42:47 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:42:47 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:43:22 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:52:21 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:52:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:52:57 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:58:12 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 17:59:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 18:04:40 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 18:08:58 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 19:44:15 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 20:10:49 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 20:30:14 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 20:44:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 20:44:39 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 20:45:46 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 21:35:18 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:19 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:21 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:21 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:21 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:21 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:22 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:22 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:22 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:22 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:22 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:24 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:24 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:24 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:24 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:24 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:29 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:29 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:29 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:29 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:29 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:30 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:30 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:30 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:30 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:31 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:31 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:31 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:31 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:31 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:34 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:34 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:34 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:34 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:34 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:36 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[13-Nov-2017 22:56:36 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 03:51:02 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 04:11:45 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 06:34:32 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 07:05:09 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 07:05:13 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 07:07:05 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 07:07:05 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 07:07:06 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 07:19:02 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[14-Nov-2017 10:30:57 UTC] PHP Fatal error:  Class 'HTML' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 9
+[14-Nov-2017 10:33:48 UTC] PHP Fatal error:  Class 'HTML' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 9
+[14-Nov-2017 10:33:54 UTC] PHP Fatal error:  Class 'HTML' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 9
+[14-Nov-2017 10:36:55 UTC] PHP Fatal error:  Class 'HTML' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 9
+[27-Nov-2017 13:20:52 UTC] PHP Fatal error:  Class 'App\MessageIncoming' not found in /home/the360surveys11/public_html/storage/framework/views/c18a133416e3238324ed690d5633828acd1697f8.php on line 118
+[27-Nov-2017 13:21:37 UTC] PHP Fatal error:  Class 'App\Objectives' not found in /home/the360surveys11/public_html/storage/framework/views/c18a133416e3238324ed690d5633828acd1697f8.php on line 118
+[27-Nov-2017 13:23:12 UTC] PHP Fatal error:  Class 'App\Objectives' not found in /home/the360surveys11/public_html/storage/framework/views/c18a133416e3238324ed690d5633828acd1697f8.php on line 118
+[26-Dec-2017 17:16:01 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[26-Dec-2017 17:26:41 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 17:26:43 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 17:26:53 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 17:26:56 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 17:27:04 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 18:45:09 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[26-Dec-2017 18:55:31 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[26-Dec-2017 19:06:58 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 19:06:58 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[26-Dec-2017 19:20:30 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[27-Dec-2017 14:22:22 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[27-Dec-2017 14:29:53 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[27-Dec-2017 15:25:48 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[28-Dec-2017 14:26:34 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[28-Dec-2017 14:26:35 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[28-Dec-2017 14:26:59 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[24-Jan-2018 13:28:00 UTC] PHP Fatal error:  Class 'MaterializeCSS' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 323
+[24-Jan-2018 13:28:34 UTC] PHP Fatal error:  Class 'MaterializeCSS' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 323
+[24-Jan-2018 13:33:49 UTC] PHP Fatal error:  Class 'MaterializeCSS' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 323
+[24-Jan-2018 13:35:21 UTC] PHP Fatal error:  Class 'MaterializeCSS' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 323
+[24-Jan-2018 13:36:07 UTC] PHP Fatal error:  Class 'MaterializeCSS' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 323
+[24-Jan-2018 13:36:25 UTC] PHP Fatal error:  Class 'MaterializeCSS' not found in /home/the360surveys11/public_html/storage/framework/views/6b62cd298680a7dfbe191653fc85e92b19604ab4.php on line 323
+[22-Feb-2018 09:50:52 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class config does not exist' in /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/the360surveys11/public_html/vendor/laravel in /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[22-Feb-2018 11:55:51 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[22-Feb-2018 11:56:22 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[22-Feb-2018 12:11:42 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 12:11:43 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 12:11:50 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 12:11:50 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:00:04 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:00:05 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:00:11 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:00:36 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:00:36 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:00:42 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 13:05:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/the360surveys11/public_html/app/Http/Controllers/QuestController.php on line 414
+[22-Feb-2018 16:26:54 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 16:26:55 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 16:27:01 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 16:27:32 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[22-Feb-2018 16:32:37 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[23-Feb-2018 13:48:22 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 14:41:49 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 14:45:01 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 14:45:15 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 14:45:49 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 15:23:48 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 15:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos('multipart/form-...', '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos('multipart/form-...', '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains('multipart/form-...', Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framewo in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos('multipart/form-...', '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos('multipart/form-...', '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains('multipart/form-...', Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framewo in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos('application/x-w...', '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos('application/x-w...', '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains('application/x-w...', Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framewo in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:31:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:35:42 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 15:40:28 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 15:40:44 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[23-Feb-2018 15:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos('multipart/form-...', '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos('multipart/form-...', '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains('multipart/form-...', Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framewo in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 15:58:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:363
+Stack trace:
+#0 /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(32): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(94): mb_strpos(NULL, '/json')
+#2 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(333): Illuminate\Http\Request->isJson()
+#4 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(361): Illuminate\Http\Request->getInputSource()
+#5 /home/the360surveys11/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumina in /home/the360surveys11/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Feb-2018 16:26:45 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[26-Feb-2018 09:07:05 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[26-Feb-2018 09:11:37 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/the360surveys11/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[05-Mar-2018 18:12:21 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dasa360/public_html/app/Http/Controllers/QuestController.php on line 417
+[05-Mar-2018 18:12:24 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dasa360/public_html/app/Http/Controllers/QuestController.php on line 417
+[05-Mar-2018 18:14:28 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dasa360/public_html/app/Http/Controllers/QuestController.php on line 417
+[08-Nov-2018 12:36:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dasa360/public_html/storage/framework/views/31662e58f897dc4a45de5e0f52f586464d12defd.php on line 56
