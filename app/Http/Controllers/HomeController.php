@@ -789,5 +789,11 @@ return redirect()->back();
 
 
     }
+    public function poll()
+    {
+
+        $questionnaires =auth()->user()->questionnaires;
+        return view('poll.home', compact('questionnaires'));
+    }
 
 }

@@ -5,11 +5,11 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="text/javascript" src="http://360dasa.org/public/js/script1.js"></script>
-    <link href="http://360dasa.org/public/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="http://360dasa.org/public/css/style1.css" type="text/css" media="all">
-    <link rel="stylesheet" href="http://360dasa.org/public/css/css.css" type="text/css" media="all">
-    <link rel="stylesheet" href="http://360dasa.org/public/css/css(1).css" type="text/css" media="all">
+    <script type="text/javascript" src="/public/js/script1.js"></script>
+    <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/style1.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/css.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/css(1).css" type="text/css" media="all">
 
 
 
@@ -488,6 +488,7 @@ menu-custom-padding wpb-js-composer js-comp-ver-5.1.1 vc_responsive hide-scrollu
                 <ul class="menu">
                           @if (Auth::guest())
                         <li><a href="{{ url('/home') }}">Home</a></li>
+
                         <li><a href="{{ url('/about') }}">About</a></li>
                         <!-- <li><a href="{{ route('objective') }}">Create Survey</a></li> -->
 
@@ -495,6 +496,7 @@ menu-custom-padding wpb-js-composer js-comp-ver-5.1.1 vc_responsive hide-scrollu
                         <li><a href="{{ route('register') }}"  class="custom-link btn btn-text-skin btn-accent btn-hover-nobg btn-icon-left"  style="padding:3px 10px!important; font-size:14px!important; margin:10px 0px;line-height:20px;text-transform:capitalize">Register</a></li>
                     @else
                         <li><a href="{{ url('/home') }}">Dashboard</a></li>
+                        <li><a href="{{ url('/questionnaires') }}">Poll</a></li>
                         <li><a href="{{ url('/about') }}">About</a></li>
                         <li><a href="/survey/new" class="custom-link btn btn-text-skin btn-outline btn-hover-accent btn-icon-left" style="padding:3px 10px!important; font-size:14px!important; margin:10px 20px;line-height:35px; text-transform:capitalize">Create Survey</a></li>
                         <li class="dropdown">

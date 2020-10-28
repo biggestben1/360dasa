@@ -102,18 +102,9 @@
 
                     <div class="row top-padding bottom-padding single-h-padding limit-width row-parent" data-imgready="true" style="padding-top:20px;">
 
-                        <div class="top-padding bottom-padding col-lg-6" style="background:#f5f5f5; text-align:center; border:3px solid #fff;">
-                            <a href="/survey/new"><span style="font-size:14px; color:#666"> Number's of Survey Created</span></a></br>
-                            <a href="/survey/new"> <span style="font-size:40px; color:#666">{{ \App\Survey::where(['user_id' => $id])->get()->count() }}</span></a>
-                        </div>
+                       
 
-
-
-                        <div class="top-padding bottom-padding col-lg-6" style="background:#f5f5f5; text-align:center;border:3px solid #fff;">
-                            <a href="{{ route('viewnewdb') }}"><span style="font-size:14px; color:#666"> Database</span></a></br>
-                            <a href="{{ route('viewnewdb') }}"><span style="font-size:40px; color:#666">{{ \App\Contactedb::where(['user_id' => $id])->get()->count() }}</span></a>
-                        </div>
-
+                    <h1 class="pull-left">Poll</h1>
                        
 
                         <div style="clear:both"></div>
@@ -125,9 +116,8 @@
 
                       <div class="btnwr1" data-imgready="true" style="width:100%; margin:25px auto 20px; text-align:center">
 
-                          <a href="/survey/new" class="custom-link btn btn-text-skin btn-accent btn-hover-nobg btn-icon-left" style="width:280px;margin-right:20px;padding:30px">Create Survey</span></a>
-                          <a href="{{ route('viewnewdb') }}" class="custom-link btn btn-text-skin btn-color-210407 btn-hover-nobg btn-icon-left" style="width:280px; padding:30px; background:#257771!important;">Add Database</span></a>
-
+                          <a href="{!! route('questionnaires.create') !!}" class="custom-link btn btn-text-skin btn-accent btn-hover-nobg btn-icon-left" style="width:280px;margin-right:20px;padding:30px">Add New</span></a>
+                       
                           </hr>
                       </div>
 
@@ -139,36 +129,16 @@
 
 
                     <div class="row top-padding bottom-padding single-h-padding limit-width row-parent" data-imgready="true">
+                    <div class="clearfix"></div>
 
-                        <table class="table table-hover">
+@include('flash::message')
 
-                                <th class="collection-header">
-                                    <h2 class="flow-text">Recent Surveys  </h2>
-
-                                  </th>
-                                  <th>
-                                        <h2 style="float:right; text-align:right;">Action</h2>
-
-                                </th>
-
-                          <tbody>
-                            @foreach ($posts as $survey)
-
-                            <tr>
-                                <td class="collection-item"> <span style="font-size:16px;"> {{ link_to_route('detail.survey', $survey->title, ['id'=>$survey->id])}}</span></td>
-                                <td class="collection-item">
-                                      <a href="survey/view/{{ $survey->id }}" title="Take Survey" class="secondary-content"><i class="material-icons">send</i></a>
-                                      <a href="survey/{{ $survey->id }}" title="Edit Survey" class="secondary-content"><i class="material-icons">edit</i></a>
-                                      <a href="survey/answers/{{ $survey->id }}" title="View Survey Answers" class="secondary-content"><i class="material-icons">textsms</i></a>
-                                      <a href="/sendtoall/{{ $survey->id }}" title="View Survey Answers" class="secondary-content">send to all</a>
-
-                                </td>
-                            </tr>
-                            @endforeach
-
-                            <?php echo $posts->render(); ?>
-                          </tbody>
-                        </table>
+<div class="clearfix"></div>
+                        
+                          <div class="box-body">
+                    @include('questionnaires.table')
+            </div>
+                       
 
                 </div></div></div>
 

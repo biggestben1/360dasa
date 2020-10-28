@@ -38,7 +38,7 @@ Route::get('loadquest/{topic_id}','QuestController@loadquest')->name('loadquest'
 Route::get('addquest/{id}','HomeController@addquest')->name('addquest');
 Route::get('profile','HomeController@profile')->name('profile');
 Route::get('terms','HomeController@terms')->name('terms');
-
+Route::get('poll','HomeController@poll')->name('poll');
 
 Route::post('addquested','HomeController@addquested')->name('addquested');
 Route::post('solution','QuestController@solution')->name('solution');
@@ -102,3 +102,8 @@ Route::get('adddb', 'HomeController@addcontactdb')->name('adddb');
 Route::get('viewnewdb', 'HomeController@viewnewdb')->name('viewnewdb');
 Route::get('edithnewdb/{id}', 'HomeController@edithnewdb')->name('edithnewdb');
 Route::get('sendtoall/{id}', 'HomeController@sendtoall')->name('sendtoall');
+Route::get('/questionnaires/create', 'QuestionnaireController@create')->name('create');
+Route::post('questionnaires', 'QuestionnaireController@store')->name('store');
+Route::get('/questionnaires/{questionnaire}', 'QuestionnaireController@show')->name('show');
+
+Route::resource('questionnaires', 'QuestionnaireController');
