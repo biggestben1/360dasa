@@ -105,5 +105,16 @@ Route::get('sendtoall/{id}', 'HomeController@sendtoall')->name('sendtoall');
 Route::get('/questionnaires/create', 'QuestionnaireController@create')->name('create');
 Route::post('questionnaires', 'QuestionnaireController@store')->name('store');
 Route::get('/questionnaires/{questionnaire}', 'QuestionnaireController@show')->name('show');
+Route::post('/questionnaires/{questionnaire}/questions/', 'QuestionnaireController@storequestion');
+//Route::patch('pollquestions/see/{id}/questions/', 'PollquestionController@see');
+Route::get('seeallmyquestions/{id}','PollquestionController@see')->name('seeallmyquestions');
 
 Route::resource('questionnaires', 'QuestionnaireController');
+
+Route::resource('pollquestions', 'PollquestionController');
+
+Route::resource('pollanswers', 'PollanswerController');
+
+Route::resource('pollsurveys', 'PollsurveyController');
+
+Route::resource('pollsurveyResponses', 'Pollsurvey_responseController');

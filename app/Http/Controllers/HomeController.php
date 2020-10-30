@@ -796,4 +796,24 @@ return redirect()->back();
         return view('poll.home', compact('questionnaires'));
     }
 
+    public function storequestion(Questionnaire $questionnaire)
+    {
+
+       // dd(request()->all());
+       $data =   $this->validate(
+        $request, [
+            'question.question' => 'required',
+            'answers.*.answer' => 'required',
+
+        ]
+    );
+       
+        dd($data);
+        $question = $questionnaire->questions()->create($data['question']);
+        $question->answers()->createMany($data['answers']);
+
+        return redirect('/questionnaires/'.$questionnaire->id);
+        // return view('question.create', compact('questionnaire'));
+    }
+
 }

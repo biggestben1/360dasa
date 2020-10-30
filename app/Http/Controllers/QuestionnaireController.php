@@ -80,6 +80,7 @@ class QuestionnaireController extends AppBaseController
      */
     public function show($id)
     {
+        $user_id =Auth::user()->id;
         $questionnaire = $this->questionnaireRepository->findWithoutFail($id);
 
         if (empty($questionnaire)) {
@@ -87,12 +88,12 @@ class QuestionnaireController extends AppBaseController
 
             return redirect(route('questionnaires.index'));
         }
-
-        if ($questionnaire) {
-            Flash::error('Questionnaire not found');
-
+        if ($questionnaire->user_id !== $user_id) {
+            Flash::error('This Poll is not Yours');
+        
             return redirect(route('questionnaires.index'));
         }
+       
 
         return view('questionnaires.show')->with('questionnaire', $questionnaire);
     }
@@ -176,4 +177,26 @@ if ($questionnaire->user_id !== $user_id) {
 
         return redirect(route('questionnaires.index'));
     }
+
+    public function storequestion(Questionnaire $questionnaire, Request $request)
+    {
+
+       // dd(request()->all());
+       $data =   $this->validate(
+        $request, [
+            'question.question' => 'required',
+            'answers.*.answer' => 'required',
+
+        ]
+    );
+       
+       // dd($request['question']);
+        $question = $questionnaire->pollquestions()->create($request['question']);
+        $question->pollanswers()->createMany($request['answers']);
+        
+        Flash::success('Questions saved successfully.');
+        return redirect('/questionnaires/'.$questionnaire->id);
+        // return view('question.create', compact('questionnaire'));
+    }
+
 }

@@ -63,5 +63,16 @@ class Questionnaire extends Model
     {
         return $this->belongsTo(User::class);
     }
+
+
+    public function pollquestions()
+    {
+        return $this->hasMany(Pollquestion::class);
+    }
+
+    public function pollsurveys()
+    {
+        return $this->hasMany(Pollsurvey::class);
+    }
     
 }
