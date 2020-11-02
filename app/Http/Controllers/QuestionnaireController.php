@@ -13,6 +13,8 @@ use Response;
 use Auth;
 use Illuminate\Support\Str;
 use App\Models\Questionnaire;
+use App\Models\User;
+
 
 class QuestionnaireController extends AppBaseController
 {
@@ -197,6 +199,12 @@ if ($questionnaire->user_id !== $user_id) {
         Flash::success('Questions saved successfully.');
         return redirect('/questionnaires/'.$questionnaire->id);
         // return view('question.create', compact('questionnaire'));
+    }
+
+    public function result(Questionnaire $questionnaire){
+        $questionnaire->load('pollquestions.pollanswers.pollresponses');
+        //dd($questionnaire);
+        return view('questionnaires.result', compact('questionnaire'));
     }
 
 }

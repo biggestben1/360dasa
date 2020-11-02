@@ -5,7 +5,7 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="text/javascript" src="/public/js/script1.js"></script>
+    <script type="text/javascript" src="/js/script1.js"></script>
     <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/css/style1.css" type="text/css" media="all">
     <link rel="stylesheet" href="/css/css.css" type="text/css" media="all">
@@ -20,6 +20,13 @@
                             opacity: 1!important;
                             pointer-events:inherit!important;
                         }
+
+
+        [type="radio"]:not(:checked), [type="radio"]:checked {
+            position: relative!important;
+            opacity: 1!important;
+            pointer-events:inherit!important;
+        }
     .headr-text {
       text-align:left!important;
       width:1200px!important;

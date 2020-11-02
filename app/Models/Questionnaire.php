@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model as Model;
 use Illuminate\Support\Str;
-
+use App\User;
 /**
  * Class Questionnaire
  * @package App\Models
@@ -57,7 +57,7 @@ class Questionnaire extends Model
 
     public function publicPath()
     {
-        return url('/surveys/'. $this->id.'-'.Str::slug($this->title) );
+        return url('/takepoll/'. $this->id.'-'.Str::slug($this->title) );
     }
     public function user()
     {

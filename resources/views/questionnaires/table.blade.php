@@ -5,7 +5,8 @@
        
         <th>Title</th>
         <th>Purpose</th>
-        <th>Share URL</th>
+
+            <th>Result</th>
             <th colspan="3">Action</th>
         </tr>
     </thead>
@@ -16,7 +17,8 @@
             
             <td>{!! $questionnaire->title !!}</td>
             <td>{!! $questionnaire->purpose !!}</td>
-            <td><a href="{{!! $questionnaire->publicPath() !!}}">{{ $questionnaire->publicPath() }}</a></td>
+
+            <td><a href="/result/{{$questionnaire->id}}">Result</a></td>
             <td>
                 {!! Form::open(['route' => ['questionnaires.destroy', $questionnaire->id], 'method' => 'delete']) !!}
                 <div class='btn-group'>

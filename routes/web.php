@@ -106,8 +106,14 @@ Route::get('/questionnaires/create', 'QuestionnaireController@create')->name('cr
 Route::post('questionnaires', 'QuestionnaireController@store')->name('store');
 Route::get('/questionnaires/{questionnaire}', 'QuestionnaireController@show')->name('show');
 Route::post('/questionnaires/{questionnaire}/questions/', 'QuestionnaireController@storequestion');
+Route::get('/result/{questionnaire}', 'QuestionnaireController@result')->name('result');
 //Route::patch('pollquestions/see/{id}/questions/', 'PollquestionController@see');
 Route::get('seeallmyquestions/{id}','PollquestionController@see')->name('seeallmyquestions');
+Route::get('questionadd/{id}','PollquestionController@add')->name('add');
+
+Route::get('mychoice/{id}','PollanswerController@see')->name('mychoice');
+
+Route::get('addanswer/{id}','PollanswerController@addanswer')->name('addanswer');
 
 Route::resource('questionnaires', 'QuestionnaireController');
 
@@ -117,4 +123,6 @@ Route::resource('pollanswers', 'PollanswerController');
 
 Route::resource('pollsurveys', 'PollsurveyController');
 
+Route::post('/pollsurveysstore/{questionnaire}-{slug}', 'PollsurveyController@store')->name('store');
 Route::resource('pollsurveyResponses', 'Pollsurvey_responseController');
+Route::get('/takepoll/{questionnaire}-{slug}', 'PollsurveyController@see')->name('see');
